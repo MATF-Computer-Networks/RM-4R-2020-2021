@@ -6,8 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p01_Streams" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p02_Threads" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/p03_InetAddress" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p02_Threads_Extra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p03_InetAddress" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p04_URL_URLConnection" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
